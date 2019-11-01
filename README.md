@@ -8,14 +8,17 @@
 + [Contributing](../CONTRIBUTING.md)
 
 ## About <a name = "about"></a>
-Write about 1-2 paragraphs describing the purpose of your project.
+Home automation system that allows you to choose languages; it interacts with you in the languages of your choosing.Made with and Arduino UNO board and components.
 
 ## Getting Started <a name = "getting_started"></a>
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
 
+See Arduino_Code.ino for the code.
+
 ### Prerequisites
 
-What things you need to install the software and how to install them.
+Arduino IDE.
+Crystal_lcd library for Arduino IDE.
 
 ```
 Give examples
@@ -23,22 +26,9 @@ Give examples
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running.
+Check step by step process of putting the components together, as well as template for the box.
 
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo.
 
 ## Usage <a name = "usage"></a>
 
-Add notes about how to use the system.
+Install it on your wall next to your door, with the motion sensor facing you.
